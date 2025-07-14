@@ -1,0 +1,13 @@
+/Images
+/Masks
+/runs
+/__pycache__
+*.pth
+*.pt
+*.pkl
+*.json
+*.csv
+*.log
+*.txt
+*.png
+*.jpg
